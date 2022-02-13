@@ -11,7 +11,7 @@ Then it will give 10 options to the user like
         7. Delete User
         8. Number of users from top
         9. Height of role hierarchy
-        10.Common boss of users
+        10. Common boss of users
 The user has to choose a option between 1 to 10.
 As per the user selection ,the program will give him the output.
 1. Add Sub Role:
